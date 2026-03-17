@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi 👋 I'm Aditya
 
-<!--
-**adity279-ai/adity279-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Student Developer | Python | AI Projects | Productivity Tools
 
-Here are some ideas to get you started:
+I build apps and dashboards that solve real problems using Python and modern tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+🔹 **PriorityOS — Smart Task Priority Dashboard**
+A productivity dashboard that ranks tasks using urgency, importance, and deadline pressure.
+
+Tech used:
+
+* Python
+* Streamlit
+* Plotly
+* Pandas
+* SQLite
+
+---
+
+## 🧠 Currently Learning
+
+* Data Science
+* Machine Learning
+* AI Automation
+* Python App Development
+
+---
+
+## 🛠️ Tech Stack
+
+Python • Streamlit • Pandas • Plotly • Git • GitHub • SQL
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn
+Portfolio
+Email

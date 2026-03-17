@@ -50,6 +50,6 @@ Python • Streamlit • Pandas • Plotly • Git • GitHub • SQL
 
 ## 🌐 Connect With Me
 
-LinkedIn
-Portfolio
-Email
+LinkedIn www.linkedin.com/in/
+aditya-desai-189613270
+
